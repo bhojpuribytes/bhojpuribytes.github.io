@@ -1,6 +1,6 @@
     body {
       margin: 0;
-      font-family: 'Poppins', sans-serif;
+      font-family: 'math;
       background: radial-gradient(circle at top, #f3f7ff, #e9eefc);
       background-size: cover;
       display: flex;
@@ -38,7 +38,7 @@
 
     p {
       color: #000;
-      font-size: 14px;
+      font-size: 16px;
       margin-bottom: 18px;
     }
     .social-icons {
